@@ -4,15 +4,15 @@ body {
 	}
 
 .item h1{
-	color: lightskyblue;
+	color: red;
 }
 	
 h1, h2, h3, h4, h5, h6 {
-	color: navy;
+	color: black;
 	}
 	
 .feature {
-	background: lightblue linear-gradient(to bottom, lightblue, lightgreen);
+	background: whitesmoke linear-gradient(to bottom, lightskyblue, lightgreen);
 	color: black;
 	}
 
@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
     
 .footer-blurb-item {
     padding: 30px;
-	border-color: #000080;
+	border-color: black;
 	border-width: 0.1px;
 	border-style: solid;
 	margin: 0.01px;
@@ -55,7 +55,7 @@ text-align: left;
 
 
 	h2,h3{
-		color: #000080;
+		color: black;
 	}
 
 	p{
@@ -71,5 +71,5 @@ text-align: left;
 		color: red;
 	}
 .navbar {
-	background-color: lightgreen;
+	background-color: paleturquoise;
 }
